@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 
 # Step 1: Load Human Data from CSV
-# Replace 'your_human_data.csv' with the actual path to your CSV file
 human_df = pd.read_csv('data/human_data.csv')
 
 # Add a label to distinguish human data
